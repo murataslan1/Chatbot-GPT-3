@@ -5,7 +5,7 @@
 This is a GPT 3 python project that allows you to train the chatbot and chat with it.
 
 #### Requirements
-> Openai key ( visit: [openai beta access](https://beta.openai.com) to get your api key)
+> Openai key ( visit: [openai access](https://beta.openai.com) to get your api key)
 
 > pip install openai
 
